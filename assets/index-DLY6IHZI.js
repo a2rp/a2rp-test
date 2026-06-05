@@ -56,4 +56,4 @@ Error generating stack: `+o.message+`
         display: flex;
         padding: 15px;
         border-radius: 15px;
-    `},Yh=()=>Vr.jsx(tf.Wrapper,{children:Vr.jsx(tf.Main,{children:"main 4 test"})});Dp.createRoot(document.getElementById("root")).render(Vr.jsx(Vr.Fragment,{children:Vr.jsx(Yh,{})}));
+    `},Yh=()=>Vr.jsx(tf.Wrapper,{children:Vr.jsx(tf.Main,{children:"main 5 test"})});Dp.createRoot(document.getElementById("root")).render(Vr.jsx(Vr.Fragment,{children:Vr.jsx(Yh,{})}));
