@@ -4,7 +4,7 @@ import { Styled } from "./App.styled";
 const App = () => {
     return (
         <Styled.Wrapper>
-            <Styled.Main>main 2 test</Styled.Main>
+            <Styled.Main>main 3 test</Styled.Main>
         </Styled.Wrapper>
     );
 };
