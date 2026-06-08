@@ -2,6 +2,8 @@
 
 A simple React + Vite test project.
 
+![alt text](preview.png)
+
 ## Development
 
 ```bash
