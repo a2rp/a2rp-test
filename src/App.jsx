@@ -15,6 +15,8 @@ const App = () => {
                     another test
                     <br />
                     retest 1
+                    <br />
+                    retest 2
                 </p>
             </Styled.Main>
         </Styled.Wrapper>
