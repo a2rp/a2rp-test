@@ -19,7 +19,13 @@ export const Styled = {
         width: 100%;
         height: 100%;
         display: flex;
+        align-items: center;
+        justify-content: center;
         padding: 15px;
         border-radius: 15px;
+
+        h1 {
+            font-size: 70px;
+        }
     `,
 };

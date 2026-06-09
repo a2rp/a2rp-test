@@ -5,23 +5,7 @@ const App = () => {
     return (
         <Styled.Wrapper>
             <Styled.Main>
-                main 7 test
-                <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Voluptatum totam, molestiae impedit incidunt expedita culpa
-                    amet autem non, ratione labore, earum vitae iure ipsam? Aut
-                    cupiditate repellendus reprehenderit nobis officiis?
-                    <br />
-                    another test
-                    <br />
-                    retest 1
-                    <br />
-                    retest 2
-                    <br />
-                    retest 3
-                    <br />
-                    retest 4
-                </p>
+                <h1>Commits Testing Repo</h1>
             </Styled.Main>
         </Styled.Wrapper>
     );
