@@ -2,6 +2,8 @@
 
 A simple React + Vite test project.
 
+![alt text](preview2.png)
+
 ![alt text](preview1.png)
 
 ![alt text](preview.png)
